@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim" alt="ibrahim" /></a> </p>
 
-- 🔭 I’m currently working on **Microservices projets**
+- 🔭 I’m currently working on **Microservices projects**
 
 - 🌱 I’m currently learning **Angular, Spring Boot, Spring Cloud, Microservices, Docker, Kubernetes, Jinkins**
 
