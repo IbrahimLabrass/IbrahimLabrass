@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Microservices projects**
 
-- 🌱 I’m currently learning **Angular, Spring Boot, Spring Cloud, Microservices, Docker, Kubernetes, Jinkins**
+- 🌱 I’m currently learning **Angular, Spring Boot, Spring Cloud, Microservices, Docker, Kubernetes, Jenkins**
 
 - 👯 I’m looking to collaborate on **Angular/Spring Boot projects**
 
