@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim" /> </p>
 
-<p align="left"> <a href="https://github.com/IbrahimLabrass/IbrahimLabrass"><img src="https://github-profile-trophy.vercel.app/?username=IbrahimLabrass" alt="ibrahim" /></a> </p>
 
 - 🔭 I’m currently working on **Microservices projects**
 
